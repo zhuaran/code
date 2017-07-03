@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UICollectionView&#x7011;&#x5e03;&#x6d41;/ViewController.m"
+            timestampString = "435933140.844492"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "-connectionDidFinishLoading:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController connectionDidFinishLoading:]"
+                  moduleName = "UICollectionView&#x7011;&#x5e03;&#x6d41;"
+                  urlString = "file:///Users/qianfeng/360%E4%BA%91%E7%9B%98/iosSH/tc%E8%AF%BE%E4%BB%B6/UICollectionView%E7%80%91%E5%B8%83%E6%B5%81/UICollectionView%E7%80%91%E5%B8%83%E6%B5%81/ViewController.m"
+                  timestampString = "435933162.877634"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "1271">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__45-[ViewController connectionDidFinishLoading:]_block_invoke"
+                  moduleName = "UICollectionView&#x7011;&#x5e03;&#x6d41;"
+                  urlString = "file:///Users/qianfeng/360%E4%BA%91%E7%9B%98/iosSH/tc%E8%AF%BE%E4%BB%B6/UICollectionView%E7%80%91%E5%B8%83%E6%B5%81/UICollectionView%E7%80%91%E5%B8%83%E6%B5%81/ViewController.m"
+                  timestampString = "435933162.877893"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UICollectionView&#x7011;&#x5e03;&#x6d41;/ViewController.m"
+            timestampString = "435933144.374349"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "-connectionDidFinishLoading:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
